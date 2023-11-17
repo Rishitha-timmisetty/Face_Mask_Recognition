@@ -30,4 +30,4 @@ The mask detection system can be deployed using various options such as creating
 
 In conclusion, this project demonstrates the process of building a face mask detection system using CNNs. The system can effectively detect whether a person is wearing a mask or not based on input images. The deployment options provide flexibility in integrating the system into different applications or platforms to ensure compliance with mask mandates and prevent the spread of COVID-19.
 
-# To execute the project, start by downloading the Kaggle JSON file(Kaggke's Beta API). Next, click/open the Google Colab link provided in the bio. Upload the Kaggle.json file to Colab, and then run the project.
+#### To execute the project, start by downloading the Kaggle JSON file(Kaggke's Beta API). Next, click/open the Google Colab link provided in the bio. Upload the Kaggle.json file to Colab, and then run the project.
